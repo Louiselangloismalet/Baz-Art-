@@ -4,14 +4,14 @@
     box-sizing: border-box;
 }
 body {
-    font-family: var(--font-family-sans);
-    color: var(--text-color);
-    background-color: var(--background-color);
+    font-family: var;
+    color: var;
+    background-color: var;
     line-height: 1.6;
 }
 .main-nav {
-    background-color: var(--background-color);
-    border-bottom: 1px solid #eee;
+    background-color: var;
+    border-bottom: 1px solid;
     padding: 15px 0;
     position: sticky; 
     top: 0;
@@ -28,25 +28,23 @@ body {
 .nav-logo {
     font-size: 1.2rem;
     font-weight: bold;
-    color: var(--text-color);
+    color: var;
 }
-
 .nav-links {
     list-style: none;
     display: flex;
     gap: 30px;
 }
-
 .nav-links a {
     text-decoration: none;
-    color: var(--light-text-color);
+    color: var;
     font-weight: 600;
     font-size: 0.9rem;
     letter-spacing: 1px;
     transition: color 0.3s;
 }
 .nav-links a:hover {
-    color: var(--text-color);
+    color: var;
 }
 .introduction-section {
     padding: 60px 0;
@@ -57,5 +55,6 @@ body {
     width: 70%; 
     text-align: center;
     font-size: 1.1rem;
-    color: var(--light-text-color);
+    color: var;
 }
+
