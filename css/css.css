@@ -56,7 +56,10 @@ body {
     width: 70%; 
     text-align: center;
     font-size: 1.1rem;
-    color: var;
+    color: black;
+    width: 350px;
+    padding: 15px;
+    text-align: justify;
 }
 .gallery-preview {
     display: flex;
@@ -77,6 +80,7 @@ body {
     font-size: 0.9rem;
     color: var;
 } 
+
 
 
 
