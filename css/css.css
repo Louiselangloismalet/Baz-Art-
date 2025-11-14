@@ -5,8 +5,8 @@
 }
 body {
     font-family: var;
-    color: var;
-    background-color: var;
+    color: black;
+    background-color: white;
     line-height: 1.6;
 }
 .main-nav {
@@ -76,3 +76,4 @@ body {
     font-size: 0.9rem;
     color: var;
 } 
+
