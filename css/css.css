@@ -86,7 +86,7 @@ body {
     justify-content: space-between;
     text-align: center;
 }
-h1 {
+h2 {
     text-align: center;
     margin-bottom: 40px;
 }
@@ -180,6 +180,7 @@ h1 {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
 
 
