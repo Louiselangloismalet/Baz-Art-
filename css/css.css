@@ -87,6 +87,8 @@ body {
     text-align: center;
 }
 .text {
+    flex: 1 1 350px;
+    min-width: 300px;
     text-align: right;
 }
 .image {
@@ -132,6 +134,7 @@ body {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
 
 
