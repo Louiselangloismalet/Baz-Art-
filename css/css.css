@@ -80,10 +80,11 @@ body {
     color: var;
 } 
 .nouveautés {
-    body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     line-height: 1.6;
+    justify-content: space-between;
+    text-align: left;
 }
 h1 {
     text-align: center;
@@ -172,6 +173,7 @@ h1 {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
 
 
