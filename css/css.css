@@ -86,10 +86,6 @@ body {
     justify-content: space-between;
     text-align: center;
 }
-h2 {
-    text-align: center;
-    margin-bottom: 40px;
-}
 .container {
     display: flex;
     justify-content: space-between;
@@ -180,6 +176,7 @@ h2 {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
 
 
