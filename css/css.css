@@ -79,22 +79,19 @@ body {
     font-size: 0.9rem;
     color: var;
 } 
-.nouveautés {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 40px;
-    line-height: 1.6;
-    justify-content: space-between;
-    text-align: center;
+.preview-section { 
+    padding: 80px 0 100px 0;
 }
-.text {
-    flex: 1 1 350px;
-    min-width: 300px;
-    text-align: right;
-}
-.image {
-    flex: 1 1 350px;
+.image-row {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+.image-row img {
+    height: 150px; 
+    object-fit: cover;
+    flex: 1; 
 }
 .footer-container {
     background-color: #359AB5
@@ -134,20 +131,3 @@ body {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
