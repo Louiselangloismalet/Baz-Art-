@@ -1,4 +1,4 @@
-* {
+r* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -84,7 +84,7 @@ body {
     margin: 40px;
     line-height: 1.6;
     justify-content: space-between;
-    text-align: right;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -157,6 +157,7 @@ h1 {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
 
 
