@@ -67,15 +67,15 @@ body {
     padding-bottom: 80px;
     text-align: center;
 }
-.gallery-item {
+.gallery1 {
     flex: 1; 
 }
-.gallery-item img {
+.gallery1 img {
     margin-bottom: 15px;
     aspect-ratio: 1 / 1; 
     object-fit: cover;
 }
-.gallery-item p {
+.gallery1 p {
     font-size: 0.9rem;
     color: var;
 } 
@@ -180,6 +180,7 @@ h2 {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
 
 
