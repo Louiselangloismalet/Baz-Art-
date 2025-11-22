@@ -86,7 +86,6 @@ body {
     gap: 20px;
 }
 .image-row img {
-    height: 150px; 
     object-fit: cover;
     flex: 1; 
 }
@@ -96,7 +95,6 @@ body {
     padding: 40px 0;
     text-align: center;
 }
-
 .footer-container {
     display: flex;
     flex-direction: column;
@@ -134,3 +132,4 @@ body {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
