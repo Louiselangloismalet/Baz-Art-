@@ -79,18 +79,22 @@ body {
     font-size: 0.9rem;
     color: var;
 } 
-.image-row { 
+.preview-section {
+    padding: 80px 0 100px 0;
+}
+.image-row {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
     gap: 20px;
 }
 .image-row img {
+    height: 150px;
     object-fit: cover;
-    flex: 1; 
+    flex: 1;
 }
 .main-footer {
-    background-color: #2b7c93; 
+    background-color: #0e1ce6; 
     color: #fff;
     padding: 40px 0;
     text-align: center;
@@ -120,7 +124,7 @@ body {
     font-size: 1rem;
 }
 .footer-cta button {
-    background-color: #2b7c93; 
+    background-color: #2b7c93;
     color: white;
     padding: 10px 20px;
     border: none;
