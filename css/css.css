@@ -90,7 +90,7 @@ body {
     flex: 1; 
 }
 .main-footer {
-    background-color: blue; 
+    background-color: #2b7c93; 
     color: #fff;
     padding: 40px 0;
     text-align: center;
@@ -132,4 +132,3 @@ body {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
-
