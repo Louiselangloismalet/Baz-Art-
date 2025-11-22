@@ -81,15 +81,16 @@ body {
 } 
 .preview-section { 
     padding: 80px 0 100px 0;
+}.more-banners {
+    padding: 80px 0 100px 0;
 }
-.image-row {
+.banner-row {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
     gap: 20px;
-    flex-direction: column;
 }
-.image-row img {
+.banner-row img {
     height: 150px; 
     object-fit: cover;
     flex: 1; 
@@ -132,4 +133,5 @@ body {
 .footer-cta button:hover {
     background-color: #1e5c70;
 }
+
 
