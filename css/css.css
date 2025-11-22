@@ -79,6 +79,25 @@ body {
     font-size: 0.9rem;
     color: var;
 } 
+.nouveauté-section {
+    padding: 60px 0;
+}
+.nouveauté-content {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    margin-bottom: 40px; 
+}
+.Nouveautés-header strong h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.8rem;
+    color: var(--text-color);
+}
+.image-thomas-guiho {
+    flex: 1; 
+    max-width: 400px; 
+}
 .preview-section {
     padding: 80px 0 100px 0;
 }
