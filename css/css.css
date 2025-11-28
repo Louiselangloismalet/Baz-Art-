@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Archivo;
     color: black;
     background-color: white;
     line-height: 1.6;
@@ -160,6 +160,7 @@
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
