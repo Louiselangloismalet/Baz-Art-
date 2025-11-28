@@ -134,8 +134,27 @@ body {
     font-size: 1.1rem;
     margin-bottom: 15px;
 }
-    
 
+.footer-cta form {
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+    margin: auto;
+}
 
+.footer-cta input {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
 
-
+.footer-cta button {
+    padding: 12px 20px;
+    border: none;
+    background-color: #103d56;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: 0.3s;
+}   
