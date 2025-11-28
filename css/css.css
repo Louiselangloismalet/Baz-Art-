@@ -112,6 +112,11 @@ body {
     object-fit: cover;
     flex: 1;
 }
+.footer-title-top {
+    font-size: 1.5rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
 .main-footer {
     background-color: #0e1ce6; 
     color: #fff;
@@ -156,5 +161,6 @@ body {
     background-color: #1e5c70;
 }
     
+
 
 
