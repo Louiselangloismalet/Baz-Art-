@@ -79,16 +79,16 @@ body {
     font-size: 0.9rem;
     color: var;
 } 
-.nouveauté-section {
+.nouveaute-section {
     padding: 60px 0;
 }
-.nouveauté-content {
+.nouveaute-content {
     display: flex;
     gap: 50px;
     align-items: center;
     margin-bottom: 40px; 
 }
-.Nouveautés-header strong h2 {
+.nouveaute-header strong h2 {
     text-align: center;
     margin-bottom: 30px;
     font-size: 1.8rem;
@@ -159,6 +159,7 @@ body {
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
