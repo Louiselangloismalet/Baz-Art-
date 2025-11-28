@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
+.body {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     background-color: white;
@@ -87,6 +87,7 @@ body {
     gap: 50px;
     align-items: center;
     margin-bottom: 40px; 
+    margin-right: 25px;
 }
 .nouveaute-header strong h2 {
     text-align: center;
@@ -159,6 +160,7 @@ body {
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
