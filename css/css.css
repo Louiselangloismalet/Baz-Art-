@@ -130,6 +130,7 @@
     font-size: 1.7rem;
     font-weight: 700;
     margin-bottom: 25px;
+    text-align: center;
 }
 
 .footer-cta p {
@@ -160,6 +161,7 @@
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
