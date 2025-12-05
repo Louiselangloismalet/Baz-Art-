@@ -87,9 +87,15 @@
     background-color: #fff;
 } 
 
-.nouveaute-section {
-    padding: 60px 0;
+.intro-text {
+    text-align:justify;
+    font-size:1.2rem;
+    line-height:1.9;
+    color:#000;
+    max-width:850px;
+    margin:0auto; 
 }
+
 .nouveaute-content {
     display: flex;
     gap: 50px;
@@ -169,6 +175,7 @@
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
