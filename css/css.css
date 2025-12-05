@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 .body {
-    font-family: Archivo;
-    color: black;
-    background-color: white;
+    font-family: 'Archivo', sans-serif;
+    color: #000;
+    background-color: #fff;
     line-height: 1.6;
-    text-align: justify;
 }
+
 .main-nav {
     background-color: white;
     border-bottom: none;
@@ -161,6 +161,7 @@
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
