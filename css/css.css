@@ -96,19 +96,17 @@
     margin:0auto; 
 }
 
-.nouveaute-content {
-    display: flex;
-    gap: 50px;
-    align-items: center;
-    margin-bottom: 40px; 
-    margin-right: 25px;
+.gallery-preview {
+    padding: 40px 0 80px;
+    background-color: #fff;
 }
-.nouveaute-header strong h2 {
-    text-align: center;
-    margin-bottom: 30px;
-    font-size: 1.8rem;
-    color: var(--text-color);
+
+.gallery-grid {
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:60px;
 }
+
 .image-thomas-guiho {
     flex: 1; 
     max-width: 400px; 
@@ -175,6 +173,7 @@
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
