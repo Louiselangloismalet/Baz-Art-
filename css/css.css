@@ -10,13 +10,9 @@
     line-height: 1.6;
 }
 
-.main-nav {
-    background-color: white;
-    border-bottom: none;
-    padding: 15px 0;
-    position: sticky; 
-    top: 0;
-    z-index: 10;
+.main-header {
+    background-color: #fff;
+    text-align:left;
 }
 .nav-container {
     width: 80%;
@@ -161,6 +157,7 @@
     cursor: pointer;
     transition: 0.3s;
 }   
+
 
 
 
