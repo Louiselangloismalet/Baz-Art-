@@ -53,10 +53,10 @@ body {
     display: flex;
     gap: 50px;
 }
-.nav-link a {
-    text-decoration:none;
-    color:#000;
-    font-weight:400;
+.nav-links a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 400;
     font-size: 0.95rem;
     transition: color 0.3s;
 }
@@ -326,6 +326,7 @@ body {
 
     
     
+
 
 
 
