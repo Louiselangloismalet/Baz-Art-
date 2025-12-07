@@ -11,29 +11,29 @@ body {
 }
 .main-header {
     background-color: #fff;
-    text-align:left;
+    text-align: left;
 }
 .header-logo {
     font-size: 1.2rem;
-    font-weight:bold;
-    padding:20px;
-    margin:0;
+    font-weight: bold;
+    padding: 20px;
+    margin: 0;
 }
 .header-banner {
     width: 100%;
     height: auto;
-    display:block;
-    transition:transform 0.6s
+    display: block;
+    transition: transform 0.6s;
 }
 .header-banner:hover {
-    transform:scale(1.02);
+    transform: scale(1.02);
 }
 .main-nav {
-    background-color:#fff;
+    background-color: #fff;
     padding:15px 0;
-    position:sticky;
-    top:0;
-    z-index:100;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 .nav-container {
     max-width:1200px;
@@ -49,20 +49,20 @@ body {
     color:#000;
 }
 .nav-links { 
-    list-style:none;
-    display:flex;
-    gap:50px;
+    list-style: none;
+    display: flex;
+    gap: 50px;
 }
 .nav-link a {
     text-decoration:none;
     color:#000;
     font-weight:400;
-    font-size:0.95rem;
-    transition:color 0.3s;
+    font-size: 0.95rem;
+    transition: color 0.3s;
 }
 .nav-links a:hover {
     color:#359AB5;
-    font-size:1rem;
+    font-size: 1rem;
 }
 .container {
     max-width: 1200px;
@@ -75,8 +75,8 @@ body {
 } 
 .intro-text {
     text-align:justify;
-    font-size:1.2rem;
-    line-height:1.9;
+    font-size: 1.2rem;
+    line-height: 1.9;
     color:#000;
     max-width: 850px;
     margin: 0 auto; 
@@ -182,7 +182,7 @@ body {
 }
 .footer-form input { 
     flex: 1;
-    padding: 10px 15px
+    padding: 10px 15px;
     border: none;
     font-size: 0.9rem;
 }
@@ -226,7 +226,7 @@ body {
         padding: 0 20px;
     }
     .header-logo {  
-        padding: 15px 20px 
+        padding: 15px 20px; 
         font-size: 1.1rem;
     }
     .nav-container {
@@ -248,7 +248,7 @@ body {
         line-height: 1.8;
     }
     .gallery-preview {
-        padding: 30px 0 50px
+        padding: 30px 0 50px;
     }
     .gallery-grid { 
         grid-template-columns: 1fr;
@@ -261,7 +261,7 @@ body {
         font-size: 0.8rem;
     }
     .nouveaute-section {
-        padding: 50 px 0;
+        padding: 50px 0;
     }
     .section-title {
         font-size: 1.4rem;
@@ -271,7 +271,7 @@ body {
         flex-direction: column;
         gap: 30px;
     }
-    .noueavute-text p {
+    .nouveaute-text p {
         font-size: 0.9rem;
         line-height: 1.8;
     }
@@ -298,7 +298,7 @@ body {
     .footer-form {
         flex-direction: column;
         gap: 12px;
-        max-width: 100%
+        max-width: 100%;
     }
     .footer-form input,
     .footer-form button {
@@ -326,6 +326,7 @@ body {
 
     
     
+
 
 
 
